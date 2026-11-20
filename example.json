@@ -1,0 +1,6 @@
+{
+  "plans": [{"id":"demo-plan","keyword":"渠道运营","city":"示例城市","source":"示例来源","basis":"虚构示例 E1 中的渠道测试与转化复盘"}],
+  "evidence": [{"id":"demo-evidence","title":"虚构示例 E1 · 渠道验证","dimension":"渠道获客","action":"示例候选人按批次测试渠道，记录转化，并依据反馈调整投入。","source":"虚构演示材料，非用户真实经历","boundary":"未声明行业、大预算、团队管理或个人业绩数字"}],
+  "run":{"id":"demo-run","source":"示例来源","keyword":"渠道运营","city":"示例城市","state":"已完成","blocker":""},
+  "jobs":[{"company":"虚构示例公司","title":"渠道运营（演示）","city":"示例城市","salary":"示例薪资","url":"https://example.com/jobs/demo","jd":"这是虚构演示 JD。负责渠道测试、渠道转化复盘及销售承接协作。","postedAt":null,"dateEvidence":"虚构演示，无实际招聘状态或发布时间。","review":{"verdict":"演示评估","strength":"示例 E1 与渠道测试、数据复盘相关。","gaps":"销售承接方面只有相关背景，待核实具体本人行动。","mapping":[["渠道测试","虚构证据 E1","直接证据"],["销售承接","没有充分证据","信息未知"]]}}]
+}

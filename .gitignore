@@ -1,0 +1,11 @@
+data/
+__pycache__/
+*.pyc
+.DS_Store
+.env*
+*.pdf
+*.xlsx
+*.sqlite*
+storage-state*.json
+cookies*.json
+
